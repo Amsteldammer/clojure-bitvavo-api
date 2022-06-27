@@ -32,11 +32,9 @@ At the moment this project does not have a clojar. To make use of this library i
 
 You will need to add something like the following to the your project.clj file.
 
-====
 :dev-dependencies [[lein-git-deps "0.0.1-SNAPSHOT"]] ;; for clojure-bitvavo-api
 :git-dependencies [["https://github.com/Amsteldammer/clojure-bitvavo-api"]] ;; for clojure-bitvavo-api
 :extra-classpath-dirs [".lein-git-deps/monger/src/"] ;; for clojure-bitvavo-api
-====
 
 ## Usage
 
