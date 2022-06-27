@@ -1,6 +1,13 @@
-ISC License
+(for Java code, i.e. everything inside src/java/com/bitvavo/api)
+ Copyright (c) 2018, Bitvavo
 
-Copyright (c) 2018, Bitvavo
+(for Clojure code, i.e. everything NOT inside src/java/com/bitvavo/api)
+ Copyright (c) 2022, Robert Tann
+
+ The origional Java code was released under an ISC Licence and the exstention
+ of this library (written by Robert Tann) is also released under an ISC licence.
+
+ ISC License
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
