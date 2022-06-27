@@ -1,4 +1,4 @@
-(defproject clojure-bitvavo-api "0.1.0-SNAPSHOT"
+(defproject org.clojars.amsteldammer/clojure-bitvavo-api "0.1.0-SNAPSHOT"
   :description "A wrapper library for Bitvavo Java api, to make it play nice with Clojure."
   :url "https://github.com/Amsteldammer/clojure-bitvavo-api"
   :license {:name "ISC WITH Classpath-exception-2.0"
