@@ -28,13 +28,10 @@ Updates and improvements may be slow.
 
 ## Installation
 
-At the moment this project does not have a clojar. To make use of this library in my own work I use another library to help fetch this library from github.
+Include this in your project file:
 
-You will need to add something like the following to the your project.clj file.
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.amsteldammer/clojure-bitvavo-api.svg)](https://clojars.org/org.clojars.amsteldammer/clojure-bitvavo-api)
 
-:dev-dependencies [[lein-git-deps "0.0.1-SNAPSHOT"]] ;; for clojure-bitvavo-api
-:git-dependencies [["https://github.com/Amsteldammer/clojure-bitvavo-api"]] ;; for clojure-bitvavo-api
-:extra-classpath-dirs [".lein-git-deps/monger/src/"] ;; for clojure-bitvavo-api
 
 ## Usage
 
